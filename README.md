@@ -34,6 +34,24 @@
 >(discontinued) A carefully implemented iOS objective-c library to mimic the sidebar layout of the new Facebook app and Path 2.0 app.
 ![](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo6.png)
 
+- [romaonthego/REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
+
+>iOS 7/8 style blurred view controller that appears on top of your view controller.  
+>  
+> ![](https://github.com/romaonthego/REFrostedViewController/raw/master/Screenshot.png)
+
+###split view
+- [mattgemmell/MGSplitViewController](https://github.com/mattgemmell/MGSplitViewController)
+
+>A flexible, advanced split-view controller for iPad developers. <http://mattgemmell.com/>
+
+###stack view
+- [steipete/PSStackedView](https://github.com/steipete/PSStackedView)
+
+>open source implementation of Twitter/iPad stacked ui - done right. <http://twitter.com/steipete>  
+>  
+> ![](https://camo.githubusercontent.com/eb76f9ba6aa3cb28e8e4825048043ab81f481ff6/687474703a2f2f662e636c2e6c792f6974656d732f325a30773044315030793168324e3156336431742f6d7a6c2e73766d78697574642e706e67)
+
 ###controller container
 - [pkluz/PKRevealController](https://github.com/pkluz/PKRevealController)
 
@@ -51,6 +69,11 @@
 >  
 > ![](https://github.com/robbdimitrov/RDVTabBarController/raw/master/Screenshots/iPhone-small.png)
 
+###头部放大功能的tableview
+- [hfrahmann/HFStretchableTableHeaderView](https://github.com/hfrahmann/HFStretchableTableHeaderView)
+
+>Stretchable TableHeaderView for iOS.
+
 ##tableView
 ###计算|优化
 - [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
@@ -63,6 +86,11 @@
 
 >Powerful data driven content manager for UITableView.
 ![](https://github.com/romaonthego/RETableViewManager/raw/master/Screenshot1.png)
+
+###通过tableview构建复杂页面
+- [escoz/QuickDialog](https://github.com/escoz/QuickDialog)
+
+>QuickDialog - Quick and easy dialog screens for iOS <http://escoz.com/open-source/quickdialog>
 
 ###跟随输入自动收起
 - [slackhq/SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
@@ -88,6 +116,22 @@
 
 >iOS 8 Mail Inspired. A UITableViewCell subclass that displays customizable left or right buttons that are revealed as the user swipes the cell in either direction. The edge-most buttons will pin to the container view and will execute an event similar to how the delete/archive button work in IOS 8 mail.
 >![](https://camo.githubusercontent.com/71dfa76d35b9a6ca99f20ec0f35e99c39554f48b/687474703a2f2f692e696d6775722e636f6d2f6d74474a7832662e706e67)
+
+###替代tableview
+- [sobri909/MGBoxKit](https://github.com/sobri909/MGBoxKit)
+
+>Simple, quick iOS tables, grids, and more
+
+##collection view
+- [steipete/PSTCollectionView](https://github.com/steipete/PSTCollectionView)
+
+>Open Source, 100% API compatible replacement of UICollectionView for iOS4.3+ <http://petersteinberger.com>
+
+- [ptshih/PSCollectionView](https://github.com/ptshih/PSCollectionView)
+
+>A simple open source implementation of a Pinterest Pinboard for iOS  
+>  
+> ![](https://camo.githubusercontent.com/cd53930cc5eb3242b60ae4b26d881775944bd103/687474703a2f2f61352e6d7a7374617469632e636f6d2f75732f72313030302f3038362f507572706c652f76342f62372f30382f62622f62373038626233662d303737352d363761662d363736352d6539663137653733383463342f6d7a615f363436333330373731303537393230383033322e343830783438302d37352e6a7067)
 
 ##动画
 - [MengTo/Spring](https://github.com/MengTo/Spring)
@@ -159,6 +203,10 @@
 - [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart)
 
 >A simple and beautiful chart lib used in Piner and CoinsMan for iOS
+
+- [core-plot/core-plot](https://github.com/core-plot/core-plot)
+
+>Core Plot source code and example applications
 
 ###ImageView
 - [contentful-labs/Concorde](https://github.com/contentful-labs/Concorde)
@@ -265,6 +313,17 @@
 >KxMenu is a vertical popup menu for using in iOS applications
 >![](https://camo.githubusercontent.com/7ff47df419f0b74ef0adfd6a706bb5085aa35102/68747470733a2f2f7261772e6769746875622e636f6d2f6b6f6c7976616e2f6b786d656e752f6d61737465722f73637265656e73686f742f6578616d706c652e706e67)
 
+###进度条progess
+- [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+
+>MBProgressHUD + Customizations <http://www.bukovinski.com/>  
+>  
+> ![](https://camo.githubusercontent.com/ee8ac43c6a7cd5145363dd76967a19953898878d/687474703a2f2f646c2e64726f70626f782e636f6d2f752f3337383732392f4d4250726f67726573734855442f322d7468756d622e706e67)
+
+- [TransitApp/SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
+
+>A clean and lightweight progress HUD for your iOS app. <http://samvermette.com/199>
+
 ###navigation progress
 - [sgryschuk/SGNavigationProgress](https://github.com/sgryschuk/SGNavigationProgress)
 
@@ -278,6 +337,11 @@
 >UIWebView progress interface  
 >  
 > ![](https://camo.githubusercontent.com/082fc708cc461dc53832b7d14d5affdf475dd57b/68747470733a2f2f7261772e6769746875622e636f6d2f6e696e6a696e6b756e2f4e4a4b5765625669657750726f67726573732f6d61737465722f44656d6f4170702f53637265656e73686f742f73637265656e73686f74312e706e67)
+
+###展示图片
+- [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+
+>A simple iOS photo and video browser with grid view, captions and selections. <http://michael.typify.io>
 
 ###启动引导页
 - [mamaral/Onboard](https://github.com/mamaral/Onboard)
@@ -340,6 +404,10 @@
 
 >A framework for building native apps with React. <http://facebook.github.io/react-native/>
 
+- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+
+>Streams of values over time
+
 ##数据处理存储
 ###数据安全存储 - keychain
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
@@ -349,6 +417,10 @@
 - [carlbrown/PDKeychainBindingsController](https://github.com/carlbrown/PDKeychainBindingsController)
 
 >Mac OSX and iOS Keychain Access patterned after NSUserDefaults. <http://www.escortmissions.com/blog/2011/9/3/steal-this-code-and-protect-their-data-simplifying-keychain.html>
+
+- [soffes/sskeychain](https://github.com/soffes/sskeychain)
+
+>Simple Objective-C wrapper for the keychain that works on Mac and iOS
 
 ###自定义字体
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster)
@@ -398,6 +470,15 @@
 
 >优秀的缓存请求库，快速请求接口和图片
 
+- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire)
+
+>Elegant HTTP Networking in Swift
+
+###http server
+- [robbiehanson/CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
+
+>A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications
+
 ##camera
 - [danielebogo/DBCamera](https://github.com/danielebogo/DBCamera)
 
@@ -424,6 +505,14 @@
 
 >A streaming audio player class (AudioStreamer) for Mac OS X and iPhone. <http://cocoawithlove.com>
 
+- [alexbw/novocaine](https://github.com/alexbw/novocaine)
+
+>Painless high-performance audio on iOS and Mac OS X <http://alexbw.github.com/novocaine/>
+
+- [TheAmazingAudioEngine/TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
+
+>Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
+
 ##功能扩展
 ###Dictionary
 - [morenjojo/NSDictionary-userful](https://github.com/morenjojo/NSDictionary-userful)
@@ -445,10 +534,22 @@
 
 >The Objective-C block utilities you always wish you had.
 
+- [gpambrozio/BlockAlertsAnd-ActionSheets](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets)
+
+>Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot <http://blog.codecropper.com/2012/01/replicating-tweetbot-alerts-and-action-sheets/>
+
 ##framework
 - [devinross/tapkulibrary](https://github.com/devinross/tapkulibrary)
 
 >tap + haiku = tapku, a well crafted open source iOS framework <http://devinross.com/tapku/documentation>
+
+- [Mantle/Mantle](https://github.com/Mantle/Mantle)
+
+>Model framework for Cocoa and Cocoa Touch
+
+- [soffes/sstoolkit](https://github.com/soffes/sstoolkit)
+
+>A collection of well-documented iOS classes for making life easier <http://sstoolk.it>
 
 ##测试相关
 - [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
@@ -458,6 +559,24 @@
 - [square/PonyDebugger](https://github.com/square/PonyDebugger)
 
 >Remote network and data debugging for your native iOS app using Chrome Developer Tools
+
+- [Flipboard/FLEX](https://github.com/Flipboard/FLEX)
+
+>An in-app debugging and exploration tool for iOS
+
+###log
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+
+>A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+
+- [domesticcatsoftware/DCIntrospect](https://github.com/domesticcatsoftware/DCIntrospect)
+
+>Small library of visual debugging tools for iOS. <http://domesticcat.com.au/projects/introspect>
+
+###core data
+- [yepher/CoreDataUtility](https://github.com/yepher/CoreDataUtility)
+
+>An OSX application that simplifies development and debugging of CoreData enabled applications.
 
 ###push
 - [stefanhafeneger/PushMeBaby](https://github.com/stefanhafeneger/PushMeBaby)
@@ -588,6 +707,10 @@
 - [CocoaChina-editors/Welcome-to-Swift](https://github.com/CocoaChina-editors/Welcome-to-Swift)
 
 >Swift中文文档
+
+- [ksm/SwiftInFlux](https://github.com/ksm/SwiftInFlux)
+
+>An attempt to gather all that is in flux in Swift.
 
 ##iOS9 适配
 - [ChenYilong/iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)
