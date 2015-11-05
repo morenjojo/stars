@@ -40,6 +40,16 @@
 >  
 > ![](https://github.com/romaonthego/REFrostedViewController/raw/master/Screenshot.png)
 
+- [romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu)
+
+>iOS 7/8 style side menu with parallax effect.  
+>  
+> ![](https://github.com/romaonthego/RESideMenu/raw/master/Screenshot.png)
+
+- [gotosleep/JASidePanels](https://github.com/gotosleep/JASidePanels)
+
+>Reveal side ViewControllers similar to Facebook/Path's menu
+
 ###split view
 - [mattgemmell/MGSplitViewController](https://github.com/mattgemmell/MGSplitViewController)
 
@@ -80,6 +90,10 @@
 
 >Template auto layout cell for automatically UITableViewCell height calculating.
 >autolayout下自动计算cell高度，优化缓存机制
+
+- [path/FastImageCache](https://github.com/path/FastImageCache)
+
+>iOS library for quickly displaying images while scrolling
 
 ###展示复杂信息
 - [romaonthego/RETableViewManager](https://github.com/romaonthego/RETableViewManager)
@@ -208,12 +222,20 @@
 
 >Core Plot source code and example applications
 
+- [xhacker/TEAChart](https://github.com/xhacker/TEAChart)
+
+>Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
+
 ###ImageView
 - [contentful-labs/Concorde](https://github.com/contentful-labs/Concorde)
 
 >Download and decode progressive JPEGs on iOS.  
 >帮助imageView实现动态加载jpg图片，由模糊到清晰  
 >支持swift
+
+- [Handy-Wang/SNGifImageView](https://github.com/Handy-Wang/SNGifImageView)
+
+>Image view for gif
 
 ###TextField
 - [raulriera/TextFieldEffects](https://github.com/raulriera/TextFieldEffects)
@@ -343,6 +365,16 @@
 
 >A simple iOS photo and video browser with grid view, captions and selections. <http://michael.typify.io>
 
+- [donobono / DoImagePickerController](https://github.com/donobono/DoImagePickerController)
+
+>An image picker controller with single selection and multiple selection. Support to select lots photos with panning gesture.  
+>  
+> ![](https://camo.githubusercontent.com/0731b75bd29331083ee670dedbe4fbe0ddb73428/68747470733a2f2f7261772e6769746875622e636f6d2f646f6e6f626f6e6f2f446f496d6167655069636b6572436f6e74726f6c6c65722f6d61737465722f70312e6a7067)
+
+- [wessmith/WSAssetPickerController](https://github.com/wessmith/WSAssetPickerController)
+
+>A multi-image picker similar to UIImagePickerController but allows selection of multiple images.
+
 ###启动引导页
 - [mamaral/Onboard](https://github.com/mamaral/Onboard)
 
@@ -368,10 +400,19 @@
 
 >A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while. Similar to Appirater, but with a simpler, cleaner interface and automatic support for iOS fast application switching. <http://charcoaldesign.co.uk/source/cocoa#irate>
 
+- [arashpayan / appirater](https://github.com/stars?direction=desc&page=6&sort=created)
+
+>A utility that reminds your iPhone app's users to review the app. <http://arashpayan.com/blog/index.php/2009/09/07/presenting-appirater/>
+
 ###树视图
 - [epreston/PSTreeGraph](https://github.com/epreston/PSTreeGraph)
 
 >A tree graph view control for iPad applications. This is a port of the sample code from Max OS X to iOS (iPad). <http://epreston.github.io/PSTreeGraph/>
+
+###自定义switch
+- [domesticcatsoftware/DCRoundSwitch](https://github.com/domesticcatsoftware/DCRoundSwitch)
+
+>A 'modern' replica of UISwitch.
 
 ###仿造著名app
 - [xhzengAIB/MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)
@@ -441,6 +482,12 @@
 
 >The better way to deal with JSON data in Swift
 
+- [icanzilb/JSONModel](https://github.com/icanzilb/JSONModel)
+
+>Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes <http://www.jsonmodel.com>  
+>  
+> ![](https://camo.githubusercontent.com/2dec0778f02163b92f257ead7c10a9390ffd0df1/687474703a2f2f7777772e746f7563682d636f64652d6d6167617a696e652e636f6d2f696d672f6a736f6e2e706e67)
+
 ###markdown
 - [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)
 
@@ -454,6 +501,15 @@
 - [topfunky/hpple](https://github.com/topfunky/hpple)
 
 >An XML/HTML parser for Objective-C, inspired by Hpricot. <http://topfunky.com>
+
+###feed - xml
+- [mwaterfall/MWFeedParser](https://github.com/mwaterfall/MWFeedParser)
+
+>An Objective-C RSS / Atom Feed Parser for iOS <http://michael.typify.io>
+
+- [71squared/TBXML](https://github.com/71squared/TBXML)
+
+>Super-fast, lightweight, easy to use XML parser for the Mac & iOS <http://www.71squared.com>
 
 ###日期相关
 - [kzjeef/SSLunarDate](https://github.com/kzjeef/SSLunarDate)
@@ -474,10 +530,33 @@
 
 >Elegant HTTP Networking in Swift
 
+- [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)
+
+>A delightful iOS and OS X networking framework <http://afnetworking.com>
+
+- [pokeb/asi-http-request](https://github.com/pokeb/asi-http-request)
+
+>Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone <http://allseeing-i.com/ASIHTTPRequest>
+
+###socket
+- [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
+
+>Asynchronous socket networking library for Mac and iOS
+
 ###http server
 - [robbiehanson/CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
 
 >A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications
+
+###Bonjour
+- [Cocoanetics/DTBonjour](https://github.com/Cocoanetics/DTBonjour)
+
+>Framework for Communicating over Bonjour+Wifi
+
+##JS-Webview-Bridge
+- [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+
+>An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews <http://marcuswest.in>
 
 ##camera
 - [danielebogo/DBCamera](https://github.com/danielebogo/DBCamera)
@@ -512,6 +591,11 @@
 - [TheAmazingAudioEngine/TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
 
 >Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
+
+##Image
+- [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage)
+
+>An open source iOS framework for GPU-based image and video processing <http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework>
 
 ##功能扩展
 ###Dictionary
@@ -550,6 +634,23 @@
 - [soffes/sstoolkit](https://github.com/soffes/sstoolkit)
 
 >A collection of well-documented iOS classes for making life easier <http://sstoolk.it>
+
+- [jverkoey/nimbus](https://github.com/jverkoey/nimbus)
+
+>The iOS framework that grows only as fast as its documentation <http://nimbuskit.info>
+
+- [kstenerud/iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework)
+
+>An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
+
+- [gimenete/iOS-boilerplate](https://github.com/gimenete/iOS-boilerplate)
+
+>iOS-app template with lots of common tasks solved <http://iosboilerplate.com/>
+
+###coredata
+- [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
+
+>Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!
 
 ##测试相关
 - [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
@@ -597,6 +698,25 @@
 - [bemyeyes/bemyeyes-ios](https://github.com/bemyeyes/bemyeyes-ios)
 
 >The Be My Eyes iOS app – lend your eyes to the blind <http://www.bemyeyes.org>
+
+- [gaosboy/iOSSF](https://github.com/gaosboy/iOSSF)
+
+>SegmentFault官方App
+
+- [kesalin/AmericanEnglish](https://github.com/kesalin/AmericanEnglish)
+
+>iPhone App for AmericanEnglish  
+>  
+> ![](https://camo.githubusercontent.com/a301cdd6859614e2444dc852c592369eda9ac9d9/687474703a2f2f696d672e6d792e6373646e2e6e65742f75706c6f6164732f3230313130382f362f32343735325f31333132363335363036334643342e706e67)
+
+- [iimgal/StudyiOS](https://github.com/iimgal/StudyiOS)
+
+>StudyiOS app
+
+###iOS game
+- [crosslife/OpenBird](https://github.com/crosslife/OpenBird)
+
+>Flappy Bird written in cocos2dx
 
 ###自定义UI 资源汇总
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
@@ -702,6 +822,11 @@
 - [erica/Auto-Layout-Demystified](https://github.com/erica/Auto-Layout-Demystified)
 
 >autolayout书籍 配套代码
+
+###OpenGLES
+- [kesalin/OpenGLES](https://github.com/kesalin/OpenGLES)
+
+>OpenGL ES 2.0 iPhone tutorial.
 
 ##Swift
 - [numbbbbb/the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
