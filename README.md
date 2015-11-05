@@ -102,10 +102,35 @@
 
 >An extensible iOS and OS X animation library, useful for physics-based interactions.
 
+- [nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)
+
+>A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS <http://www.charcoaldesign.co.uk/source/cocoa#icarousel>
+
+###毛玻璃效果
+- [onevcat/VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation)
+
+>A simple way to present a view controller with keeping the blurred previous one.
+
+###flowlayout collection view
+- [onevcat/VVSpringCollectionViewFlowLayout](https://github.com/onevcat/VVSpringCollectionViewFlowLayout)
+
+>A spring-like collection view layout. The same effect like iOS7's Message.app
+
+###波纹动画
+- [kevinzhow/Waver](https://github.com/kevinzhow/Waver)
+
+>Siri like waver  
+>  
+> ![](https://camo.githubusercontent.com/5ddb1f331c40b43f6ed2de9260c850df65ea76e6/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393636322f77617665722f77617665722e706e67)
+
 ##Autolayout
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit)
 
 >A Swift Autolayout DSL for iOS & OS X <http://snapkit.io>
+
+- [SnapKit/Masonry](https://github.com/SnapKit/Masonry)
+
+>Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
 
 ##SDK
 ###支付
@@ -130,6 +155,10 @@
 
 >An iOS port of the beautiful MPAndroidChart. - Beautiful charts for iOS apps!  
 >出色的iOS图表库
+
+- [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart)
+
+>A simple and beautiful chart lib used in Piner and CoinsMan for iOS
 
 ###ImageView
 - [contentful-labs/Concorde](https://github.com/contentful-labs/Concorde)
@@ -236,6 +265,20 @@
 >KxMenu is a vertical popup menu for using in iOS applications
 >![](https://camo.githubusercontent.com/7ff47df419f0b74ef0adfd6a706bb5085aa35102/68747470733a2f2f7261772e6769746875622e636f6d2f6b6f6c7976616e2f6b786d656e752f6d61737465722f73637265656e73686f742f6578616d706c652e706e67)
 
+###navigation progress
+- [sgryschuk/SGNavigationProgress](https://github.com/sgryschuk/SGNavigationProgress)
+
+>A category for showing a Messages like progress view on a UINavigationBar  
+>  
+> ![](https://camo.githubusercontent.com/134f6ad47d57b0432d4cdc7ddc45fac14d775c8d/68747470733a2f2f7261772e6769746875622e636f6d2f73677279736368756b2f53474e617669676174696f6e50726f67726573732f6d61737465722f53637265656e53686f742e706e67)
+
+###webview with progress
+- [ninjinkun/NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)
+
+>UIWebView progress interface  
+>  
+> ![](https://camo.githubusercontent.com/082fc708cc461dc53832b7d14d5affdf475dd57b/68747470733a2f2f7261772e6769746875622e636f6d2f6e696e6a696e6b756e2f4e4a4b5765625669657750726f67726573732f6d61737465722f44656d6f4170702f53637265656e73686f742f73637265656e73686f74312e706e67)
+
 ###启动引导页
 - [mamaral/Onboard](https://github.com/mamaral/Onboard)
 
@@ -251,20 +294,40 @@
 
 >Intelligent iOS permissions UI and unified API
 
+###alert
+- [enormego/EGOTextFieldAlertView](https://github.com/enormego/EGOTextFieldAlertView)
+
+>UIAlertView subclass that adds support for UITextFields, without using any private methods. <http://developers.enormego.com>
+
 ###提示用户评价
 - [nicklockwood/iRate](https://github.com/nicklockwood/iRate)
 
 >A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while. Similar to Appirater, but with a simpler, cleaner interface and automatic support for iOS fast application switching. <http://charcoaldesign.co.uk/source/cocoa#irate>
+
+###树视图
+- [epreston/PSTreeGraph](https://github.com/epreston/PSTreeGraph)
+
+>A tree graph view control for iPad applications. This is a port of the sample code from Max OS X to iOS (iPad). <http://epreston.github.io/PSTreeGraph/>
 
 ###仿造著名app
 - [xhzengAIB/MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)
 
 >An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
 
+###core text仿造微信
+- [TigerWf/WFCoretext](https://github.com/TigerWf/WFCoretext)
+
+>基于coretext的类似微信朋友圈的图文混排与简易阅读器
+
 ##KVO
 - [facebook/KVOController](https://github.com/facebook/KVOController)
 
 >Simple, modern, thread-safe key-value observing for iOS and OS X.
+
+##AOP
+- [steipete/Aspects](https://github.com/steipete/Aspects)
+
+>Delightful, simple library for aspect oriented programming.
 
 ##手势
 ###全屏手势滑动返回
@@ -278,10 +341,14 @@
 >A framework for building native apps with React. <http://facebook.github.io/react-native/>
 
 ##数据处理存储
-###数据安全存储
+###数据安全存储 - keychain
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
 
 >Simple Swift wrapper for Keychain that works on iOS and OS X
+
+- [carlbrown/PDKeychainBindingsController](https://github.com/carlbrown/PDKeychainBindingsController)
+
+>Mac OSX and iOS Keychain Access patterned after NSUserDefaults. <http://www.escortmissions.com/blog/2011/9/3/steal-this-code-and-protect-their-data-simplifying-keychain.html>
 
 ###自定义字体
 - [ArtSabintsev/FontBlaster](https://github.com/ArtSabintsev/FontBlaster)
@@ -326,6 +393,37 @@
 
 >AFNetworking Extension for document previews of remote files, forked from <https://github.com/xing/AFQuickLookView>
 
+##network
+- [swtlovewtt/WTRequestCenter](https://github.com/swtlovewtt/WTRequestCenter)
+
+>优秀的缓存请求库，快速请求接口和图片
+
+##camera
+- [danielebogo/DBCamera](https://github.com/danielebogo/DBCamera)
+
+>DBCamera is a simple custom camera with AVFoundation
+
+##audio
+- [msching/MCAudioFile](https://github.com/msching/MCAudioFile)
+
+>a simple wrapper of AudioFile <http://msching.github.io/blog/2014/07/19/audio-in-ios-4/>
+
+- [msching/MCAudioFileStream](https://github.com/msching/MCAudioFileStream)
+
+>a simple wrapper of AudioFileStream <http://msching.github.io/blog/2014/07/09/audio-in-ios-3/>
+
+- [douban/DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)
+
+>A Core Audio based streaming audio player for iOS/Mac
+
+- [muhku/FreeStreamer](https://github.com/muhku/FreeStreamer)
+
+>A low-memory footprint streaming audio player for iOS and OS X <http://freestreamer.io/>
+
+- [mattgallagher/AudioStreamer](https://github.com/mattgallagher/AudioStreamer)
+
+>A streaming audio player class (AudioStreamer) for Mac OS X and iPhone. <http://cocoawithlove.com>
+
 ##功能扩展
 ###Dictionary
 - [morenjojo/NSDictionary-userful](https://github.com/morenjojo/NSDictionary-userful)
@@ -336,6 +434,21 @@
 - [Nyx0uf/NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)
 
 >A set of efficient categories for UIImage class. It allows filtering, resizing, masking, rotating, enhancing... and more. <http://www.cocoaintheshell.com>
+
+###keyboard
+- [michaeltyson/TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
+
+>A drop-in universal solution for moving text fields out of the way of the keyboard in iOS <http://atastypixel.com/blog/a-drop-in-universal-solution-for-moving-text-fields-out-of-the-way-of-the-keyboard/>
+
+###block
+- [zwaldowski/BlocksKit](https://github.com/zwaldowski/BlocksKit)
+
+>The Objective-C block utilities you always wish you had.
+
+##framework
+- [devinross/tapkulibrary](https://github.com/devinross/tapkulibrary)
+
+>tap + haiku = tapku, a well crafted open source iOS framework <http://devinross.com/tapku/documentation>
 
 ##测试相关
 - [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
@@ -362,6 +475,10 @@
 
 >A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 
+- [bemyeyes/bemyeyes-ios](https://github.com/bemyeyes/bemyeyes-ios)
+
+>The Be My Eyes iOS app – lend your eyes to the blind <http://www.bemyeyes.org>
+
 ###自定义UI 资源汇总
 - [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
@@ -379,6 +496,15 @@
 - [webfrogs/xcode_shell](https://github.com/webfrogs/xcode_shell)
 
 >shell script that used to auto-build xcode project
+
+- [adamwaite/iOS-Build-Kit](https://github.com/adamwaite/iOS-Build-Kit)
+
+>BuildKit is a modular command line interface for automating iOS project builds. Bundled build tasks include: Increment app version • Xcode build • Overlay version number on icon files • Run unit tests • Create .ipa artefact.
+
+###xcode plugin
+- [rickytan/RTImageAssets](https://github.com/rickytan/RTImageAssets)
+
+>A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, or upscale to @3x from @2x
 
 #资源汇总
 ##数据传输协议
@@ -436,6 +562,23 @@
 - [100mango/zen](https://github.com/100mango/zen)
 
 >iOS 心得
+
+- [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
+
+>iOS 学习资料整理
+
+- [tangqiaoboy/iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)
+
+>中文 iOS/Mac 开发博客列表
+
+- [objc-zen/objc-zen-book](https://github.com/objc-zen/objc-zen-book)
+
+>Zen and the Art of the Objective-C Craftsmanship
+
+###autolayout
+- [erica/Auto-Layout-Demystified](https://github.com/erica/Auto-Layout-Demystified)
+
+>autolayout书籍 配套代码
 
 ##Swift
 - [numbbbbb/the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
