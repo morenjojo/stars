@@ -694,6 +694,10 @@
 
 >Zen and the Art of the Objective-C Craftsmanship
 
+- [erica/iphone-3.0-cookbook-](https://github.com/erica/iphone-3.0-cookbook-)
+
+>iPhone 3.0 cookbook Sample Code
+
 ###autolayout
 - [erica/Auto-Layout-Demystified](https://github.com/erica/Auto-Layout-Demystified)
 
