@@ -424,6 +424,11 @@
 
 >基于coretext的类似微信朋友圈的图文混排与简易阅读器
 
+###富文本
+- [ibireme/YYText](https://github.com/ibireme/YYText)
+
+>功能强大的 iOS 富文本编辑与显示框架。
+
 ##KVO
 - [facebook/KVOController](https://github.com/facebook/KVOController)
 
@@ -646,6 +651,10 @@
 - [gimenete/iOS-boilerplate](https://github.com/gimenete/iOS-boilerplate)
 
 >iOS-app template with lots of common tasks solved <http://iosboilerplate.com/>
+
+- [ibireme/YYKit](https://github.com/ibireme/YYKit)
+
+>YYKit 是一组功能丰富的 iOS 组件，用于构建大型、复杂的 iOS 应用。
 
 ###coredata
 - [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
