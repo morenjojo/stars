@@ -4,7 +4,7 @@
 不仅仅是在github上，也包括其他站点
 
 #20151127更新: 
-我的star整理都合并到[《收藏的开源项目》](http://morenjojo.github.io/docs/my_stars/)  
+我的star整理都合并到[这里](http://morenjojo.github.io/docs/my_stars/)  
 这里将不再更新;
 
 
